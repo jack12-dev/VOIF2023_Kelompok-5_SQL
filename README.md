@@ -15,7 +15,7 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 3. c
 
 ### Desain dan Prototype
-1. a
+1. Abdulhadi
 2. b
 3. c
 4. d
