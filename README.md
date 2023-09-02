@@ -5,7 +5,7 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 
 ## Anggota Per-Divisi
 ### Laporan dan PPT
-1. a
+1. Grace Tabitha
 2. b
 3. c
 
