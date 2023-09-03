@@ -10,7 +10,7 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 3. c
 
 ### Algoritma dan Flowchart
-1. a
+1. Zahra Ismaya
 2. b
 3. c
 
