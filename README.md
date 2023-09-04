@@ -6,7 +6,7 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 ## Anggota Per-Divisi
 ### Laporan dan PPT
 1. Grace Tabitha
-2. b
+2. Azzahra Fitri
 3. c
 
 ### Algoritma dan Flowchart
