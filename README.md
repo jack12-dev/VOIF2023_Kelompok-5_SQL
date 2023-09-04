@@ -1,7 +1,7 @@
 # VOIF2023_Kelompok-5_SQL
 Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informasi kepada anggota tim perancang.
 - **Mentor** : Ikhfa Aulia (Ichi)
-- **AsMen** : 
+- **AsMen** : Muhamad Gian Novridan
 
 ## Anggota Per-Divisi
 ### Laporan dan PPT
