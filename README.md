@@ -7,7 +7,7 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 ### Laporan dan PPT
 1. Grace Tabitha
 2. Azzahra Fitri
-3. c
+3. Aura Salsa Azzahra
 
 ### Algoritma dan Flowchart
 1. Zahra Ismaya
